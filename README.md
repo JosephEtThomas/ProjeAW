@@ -1,7 +1,4 @@
 ##ProjetAW
 
-C=====3
-###Thomas_Bauduin__&__Joseph_Braginsky##
 
-
-B====D ---
+###Thomas_Bauduin__&__Joseph_Braginsky###
