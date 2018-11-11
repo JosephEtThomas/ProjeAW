@@ -29,11 +29,13 @@ QT += widgets
 SOURCES += \
         mainwindow.cpp \
     main.cpp \
-    window.cpp
+    window.cpp \
+    sliderlcd.cpp
 
 HEADERS += \
         mainwindow.h \
-    window.h
+    window.h \
+    sliderlcd.h
 
 FORMS += \
         mainwindow.ui
