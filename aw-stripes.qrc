@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/units">
+        <file>aw-stripes/geinfantry.gif</file>
+    </qresource>
+    <qresource prefix="/terrain">
+        <file>aw-stripes/plain.gif</file>
+    </qresource>
+</RCC>
