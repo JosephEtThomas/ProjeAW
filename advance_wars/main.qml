@@ -1,6 +1,10 @@
 import QtQuick 2.6
 import QtQuick.Controls 2.1
 
+
+/* Ca fonctionne pas non plus ici de créer une grille de carrés
+On persévère */
+
 ApplicationWindow {
     visible: true
     width: 700
